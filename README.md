@@ -13,7 +13,7 @@
 
 ### Contact:
 <div align="center">
-  <a alt="Visit my profile" href="https://www.linkedin.com/in/evavic44">
+  <a alt="Visit my profile" href="https://www.linkedin.com/in/vinicius-ortega">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a alt="Contact me" href="mailto: viniciuscodc@gmail.com"> 
