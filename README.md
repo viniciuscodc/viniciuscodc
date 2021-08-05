@@ -19,6 +19,8 @@
   <a href="mailto: viniciuscodc@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://github.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/viniciuscodc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </div>
 
 ### Languages and Tools:
