@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" >
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
