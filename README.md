@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi there;Welcome to my Github Profile)](https://git.io/typing-svg)
+
+
 ### Hi there 👋
 
 <!--
