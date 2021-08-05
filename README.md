@@ -4,8 +4,6 @@
   </a>
 </p>
 
-
-
 ## Hi there :wave:, I'm Vinicius Ortega
 - ⚡ I’m learning Vuejs
 - :video_game: I like creating game cheats
@@ -126,6 +124,11 @@
     </td>
   </tr>
 </table>
+
+### Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscodc&layout=compact)](https://github.com/viniciuscodc/github-readme-stats)
+
+
 
 
 
