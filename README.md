@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;)](https://git.io/typing-svg)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a 
 
 - 🔭 I just launched my first course:
 - 🌱 I’m currently learning everything 🤣
@@ -13,13 +13,13 @@
 
 ### Contact:
 <div align="center">
-  <a href="https://www.linkedin.com/in/evavic44">
+  <a alt="Visit my profile" href="https://www.linkedin.com/in/evavic44">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto: viniciuscodc@gmail.com"> 
+  <a alt="Contact me" href="mailto: viniciuscodc@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/viniciuscodc">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/viniciuscodc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </div>
 
