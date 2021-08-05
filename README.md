@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Contact:
+<div align="center">
+  <a href="https://www.linkedin.com/in/evavic44">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto: viniciuscodc@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 ### Languages and Tools:
 
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
