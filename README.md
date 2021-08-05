@@ -1,8 +1,7 @@
+### Welcome to my Github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;)](https://git.io/typing-svg)
 
-
-### Hi there 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
