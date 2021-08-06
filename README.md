@@ -112,7 +112,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="48" height="48" alt="Bash" />
+        <img src="./Icons/48x48.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
