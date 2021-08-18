@@ -94,9 +94,9 @@
     </td>
     <td align="center"  width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Xd
+      <br>Python
     </td>
     <td align="center" width="96">
       <a>
