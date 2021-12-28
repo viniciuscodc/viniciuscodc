@@ -5,10 +5,9 @@
 </p>
 
 ## Hi there :wave:, I'm Vinicius Ortega
-- ⚡ I’m learning Vuejs
-- :video_game: I like creating game cheats
-- :briefcase: I’m currently trying to get a developer job
-- 👯 I’m looking to contribute to a open source project
+- ⚡ FullStack Developer
+- :video_game: I like creating game cheats and reverse engineering code
+- Looking for Real challenges
 
 ### Contact:
   <a title="Visit my profile" href="https://www.linkedin.com/in/vinicius-ortega">
