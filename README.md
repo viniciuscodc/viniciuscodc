@@ -119,7 +119,7 @@
       <a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Postgre" />
       </a>
-      <br>Postgre
+      <br>Postgres
     </td>
   </tr>
 </table>
