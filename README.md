@@ -7,7 +7,7 @@
 ## Hi there :wave:, I'm Vinicius Ortega
 - ⚡ FullStack Developer
 - :video_game: I like creating game cheats and reverse engineering code
-- Looking for Real challenges
+- :muscle: Looking for New challenges
 
 ### Contact:
   <a title="Visit my profile" href="https://www.linkedin.com/in/vinicius-ortega">
