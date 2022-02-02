@@ -81,15 +81,15 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="48" height="48" alt="Net" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="48" height="48" alt="Net" />
       </a>
-      <br>.Net
+      <br>Docker
     </td>
     <td align="center"  width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Xd" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="48" height="48" alt="Xd" />
       </a>
-      <br>Figma
+      <br>Node
     </td>
     <td align="center"  width="96">
       <a>
@@ -99,9 +99,9 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="Npm" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Npm" />
       </a>
-      <br>Npm
+      <br>Redux
     </td>
     <td align="center"  width="96">
       <a>
