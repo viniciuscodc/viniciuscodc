@@ -67,9 +67,9 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>React
+      <br>Python
     </td>
   </tr>
   <tr>
@@ -93,9 +93,9 @@
     </td>
     <td align="center"  width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>Python
+      <br>React
     </td>
     <td align="center" width="96">
       <a>
