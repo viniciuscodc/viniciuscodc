@@ -54,10 +54,10 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="JavaScript" />
+      <a>     
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />       
       </a>
-      <br>Jquery
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a>
