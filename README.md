@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a>     
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />       
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />       
       </a>
       <br>Kubernetes
     </td>
